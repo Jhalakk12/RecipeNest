@@ -5,7 +5,7 @@ A comprehensive Android application for discovering, exploring, and managing del
 ## 📱 Features
 
 - **Recipe Discovery**: Browse through a vast collection of recipes
-- **Meal Categories**: Filter recipes by categories (like Beverages, Main Course, Dessert, Side dish) with dropdown selection.
+- **Meal Categories**: Filter recipes by categories (like Beverages, Main Course, Dessert, Side dish) with dropdown selection
 - **Search Functionality**: Find recipes by name, ingredients, or cuisine type
 - **User Authentication**: Secure login and registration with Firebase Auth (persistent login)
 - **Recipe Details**: Detailed view with ingredients, instructions, and nutritional information
@@ -34,10 +34,6 @@ A comprehensive Android application for discovering, exploring, and managing del
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/vikakapi/RecipeNest.git
-   cd RecipeNest
-   ```
 
 2. **Open in Android Studio**
    - Open Android Studio
