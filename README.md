@@ -9,6 +9,7 @@ A comprehensive Android application for discovering, exploring, and managing del
 - **Search Functionality**: Find recipes by name, ingredients, or cuisine type
 - **User Authentication**: Secure login and registration with Firebase Auth (persistent login)
 - **Recipe Details**: Detailed view with ingredients, instructions, and nutritional information
+- **Similar recipes**: Suggests similar recipes
 - **User Profiles**: Personalized user experience with profile management
 - **Favorites**: Save and manage your favorite recipes
 - **Responsive Design**: Optimized for various Android devices
@@ -66,4 +67,5 @@ A comprehensive Android application for discovering, exploring, and managing del
    - Quick access to recipes based on meal planning needs
 5. **Search**: Use the search functionality to find specific recipes
 6. **Recipe Details**: Tap on any recipe to view detailed information
-7. **Profile**: Manage your account and view saved recipes
+7. **Similar recipes**: Gives suggestion of similar recipes
+8. **Profile**: Manage your account and view saved recipes
