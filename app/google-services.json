@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839645363763",
+    "project_id": "recipenest-c66e5",
+    "storage_bucket": "recipenest-c66e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839645363763:android:98dad6375fd74e0168ed46",
+        "android_client_info": {
+          "package_name": "com.example.recipenest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmWjTJcRUq_Uu9k1DbJsogqDdEc3l_Tkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
